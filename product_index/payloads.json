@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "p1",
+    "title": "Bio Haferdrink Natur",
+    "category": "Getränke",
+    "ingredients": [
+      "Wasser",
+      "Hafer",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Bio Haferdrink Natur\nKategorie: Getränke\nZutaten: Wasser, Hafer, Salz"
+  },
+  {
+    "id": "p2",
+    "title": "Tomatensauce Basilikum",
+    "category": "Saucen",
+    "ingredients": [
+      "Tomaten",
+      "Basilikum",
+      "Olivenöl",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Tomatensauce Basilikum\nKategorie: Saucen\nZutaten: Tomaten, Basilikum, Olivenöl, Salz"
+  },
+  {
+    "id": "p3",
+    "title": "Vollkorn Spaghetti",
+    "category": "Nudeln",
+    "ingredients": [
+      "Hartweizengrieß",
+      "Vollkornmehl"
+    ],
+    "embedded_text": "Titel: Vollkorn Spaghetti\nKategorie: Nudeln\nZutaten: Hartweizengrieß, Vollkornmehl"
+  },
+  {
+    "id": "p4",
+    "title": "Griechischer Joghurt 10%",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch",
+      "Joghurtkulturen"
+    ],
+    "embedded_text": "Titel: Griechischer Joghurt 10%\nKategorie: Milchprodukte\nZutaten: Milch, Joghurtkulturen"
+  },
+  {
+    "id": "p5",
+    "title": "Veganes Proteinriegel Schoko",
+    "category": "Snacks",
+    "ingredients": [
+      "Erbsenprotein",
+      "Kakao",
+      "Datteln",
+      "Mandeln"
+    ],
+    "embedded_text": "Titel: Veganes Proteinriegel Schoko\nKategorie: Snacks\nZutaten: Erbsenprotein, Kakao, Datteln, Mandeln"
+  },
+  {
+    "id": "p6",
+    "title": "Apfelsaft Naturtrüb",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfelsaft"
+    ],
+    "embedded_text": "Titel: Apfelsaft Naturtrüb\nKategorie: Getränke\nZutaten: Apfelsaft"
+  },
+  {
+    "id": "p7",
+    "title": "Hummus Classic",
+    "category": "Aufstriche",
+    "ingredients": [
+      "Kichererbsen",
+      "Tahini",
+      "Olivenöl",
+      "Knoblauch",
+      "Zitronensaft",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Hummus Classic\nKategorie: Aufstriche\nZutaten: Kichererbsen, Tahini, Olivenöl, Knoblauch, Zitronensaft, Salz"
+  },
+  {
+    "id": "p8",
+    "title": "Buttercroissant",
+    "category": "Backwaren",
+    "ingredients": [
+      "Weizenmehl",
+      "Butter",
+      "Zucker",
+      "Hefe",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Buttercroissant\nKategorie: Backwaren\nZutaten: Weizenmehl, Butter, Zucker, Hefe, Salz"
+  },
+  {
+    "id": "p9",
+    "title": "Bio Eier Freiland",
+    "category": "Eier",
+    "ingredients": [
+      "Eier"
+    ],
+    "embedded_text": "Titel: Bio Eier Freiland\nKategorie: Eier\nZutaten: Eier"
+  },
+  {
+    "id": "p10",
+    "title": "Cheddar Käse Mild",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch",
+      "Salz",
+      "Lab",
+      "Kulturen"
+    ],
+    "embedded_text": "Titel: Cheddar Käse Mild\nKategorie: Milchprodukte\nZutaten: Milch, Salz, Lab, Kulturen"
+  },
+  {
+    "id": "p11",
+    "title": "Linsensuppe Vegan",
+    "category": "Fertiggerichte",
+    "ingredients": [
+      "Linsen",
+      "Karotten",
+      "Zwiebeln",
+      "Sellerie",
+      "Gewürze",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Linsensuppe Vegan\nKategorie: Fertiggerichte\nZutaten: Linsen, Karotten, Zwiebeln, Sellerie, Gewürze, Salz"
+  },
+  {
+    "id": "p12",
+    "title": "Mineralwasser Sprudel",
+    "category": "Getränke",
+    "ingredients": [
+      "Mineralwasser",
+      "Kohlensäure"
+    ],
+    "embedded_text": "Titel: Mineralwasser Sprudel\nKategorie: Getränke\nZutaten: Mineralwasser, Kohlensäure"
+  },
+  {
+    "id": "p13",
+    "title": "Erdnussbutter Crunchy",
+    "category": "Aufstriche",
+    "ingredients": [
+      "Erdnüsse",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Erdnussbutter Crunchy\nKategorie: Aufstriche\nZutaten: Erdnüsse, Salz"
+  },
+  {
+    "id": "p14",
+    "title": "Mozzarella Kugel",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch",
+      "Salz",
+      "Lab",
+      "Kulturen"
+    ],
+    "embedded_text": "Titel: Mozzarella Kugel\nKategorie: Milchprodukte\nZutaten: Milch, Salz, Lab, Kulturen"
+  },
+  {
+    "id": "p15",
+    "title": "Gefrorene Beerenmischung",
+    "category": "Tiefkühlprodukte",
+    "ingredients": [
+      "Erdbeeren",
+      "Himbeeren",
+      "Blaubeeren"
+    ],
+    "embedded_text": "Titel: Gefrorene Beerenmischung\nKategorie: Tiefkühlprodukte\nZutaten: Erdbeeren, Himbeeren, Blaubeeren"
+  },
+  {
+    "id": "p16",
+    "title": "Rinderhackfleisch",
+    "category": "Fleisch",
+    "ingredients": [
+      "Rindfleisch"
+    ],
+    "embedded_text": "Titel: Rinderhackfleisch\nKategorie: Fleisch\nZutaten: Rindfleisch"
+  },
+  {
+    "id": "p17",
+    "title": "Gemüsebrühe Pulver",
+    "category": "Gewürze",
+    "ingredients": [
+      "Salz",
+      "Karotten",
+      "Zwiebeln",
+      "Sellerie",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Gemüsebrühe Pulver\nKategorie: Gewürze\nZutaten: Salz, Karotten, Zwiebeln, Sellerie, Gewürze"
+  },
+  {
+    "id": "p18",
+    "title": "Dunkle Schokolade 70%",
+    "category": "Süßwaren",
+    "ingredients": [
+      "Kakaomasse",
+      "Kakaobutter",
+      "Zucker",
+      "Vanille"
+    ],
+    "embedded_text": "Titel: Dunkle Schokolade 70%\nKategorie: Süßwaren\nZutaten: Kakaomasse, Kakaobutter, Zucker, Vanille"
+  },
+  {
+    "id": "p19",
+    "title": "Mandeldrink Ungesüßt",
+    "category": "Getränke",
+    "ingredients": [
+      "Wasser",
+      "Mandeln",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Mandeldrink Ungesüßt\nKategorie: Getränke\nZutaten: Wasser, Mandeln, Salz"
+  },
+  {
+    "id": "p20",
+    "title": "Pesto Genovese",
+    "category": "Saucen",
+    "ingredients": [
+      "Basilikum",
+      "Olivenöl",
+      "Pinienkerne",
+      "Parmesan",
+      "Knoblauch",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Pesto Genovese\nKategorie: Saucen\nZutaten: Basilikum, Olivenöl, Pinienkerne, Parmesan, Knoblauch, Salz"
+  },
+  {
+    "id": "p21",
+    "title": "Apfelmus Ungesüßt",
+    "category": "Obstkonserven",
+    "ingredients": [
+      "Äpfel"
+    ],
+    "embedded_text": "Titel: Apfelmus Ungesüßt\nKategorie: Obstkonserven\nZutaten: Äpfel"
+  },
+  {
+    "id": "p22",
+    "title": "Apfel-Zimt Müsli",
+    "category": "Frühstück",
+    "ingredients": [
+      "Haferflocken",
+      "Apfelstücke",
+      "Zimt",
+      "Rosinen"
+    ],
+    "embedded_text": "Titel: Apfel-Zimt Müsli\nKategorie: Frühstück\nZutaten: Haferflocken, Apfelstücke, Zimt, Rosinen"
+  },
+  {
+    "id": "p23",
+    "title": "Bananen Smoothie",
+    "category": "Getränke",
+    "ingredients": [
+      "Banane",
+      "Wasser"
+    ],
+    "embedded_text": "Titel: Bananen Smoothie\nKategorie: Getränke\nZutaten: Banane, Wasser"
+  },
+  {
+    "id": "p24",
+    "title": "Vollkornreis",
+    "category": "Reis",
+    "ingredients": [
+      "Reis"
+    ],
+    "embedded_text": "Titel: Vollkornreis\nKategorie: Reis\nZutaten: Reis"
+  },
+  {
+    "id": "p25",
+    "title": "Kokosmilch",
+    "category": "Konserven",
+    "ingredients": [
+      "Kokosnussextrakt",
+      "Wasser"
+    ],
+    "embedded_text": "Titel: Kokosmilch\nKategorie: Konserven\nZutaten: Kokosnussextrakt, Wasser"
+  },
+  {
+    "id": "p26",
+    "title": "Roggenbrot",
+    "category": "Backwaren",
+    "ingredients": [
+      "Roggenmehl",
+      "Wasser",
+      "Salz",
+      "Hefe"
+    ],
+    "embedded_text": "Titel: Roggenbrot\nKategorie: Backwaren\nZutaten: Roggenmehl, Wasser, Salz, Hefe"
+  },
+  {
+    "id": "p27",
+    "title": "Chia Samen",
+    "category": "Superfoods",
+    "ingredients": [
+      "Chiasamen"
+    ],
+    "embedded_text": "Titel: Chia Samen\nKategorie: Superfoods\nZutaten: Chiasamen"
+  },
+  {
+    "id": "p28",
+    "title": "Mango Fruchtpüree",
+    "category": "Obstkonserven",
+    "ingredients": [
+      "Mango"
+    ],
+    "embedded_text": "Titel: Mango Fruchtpüree\nKategorie: Obstkonserven\nZutaten: Mango"
+  },
+  {
+    "id": "p29",
+    "title": "Gouda Käse",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch",
+      "Salz",
+      "Lab"
+    ],
+    "embedded_text": "Titel: Gouda Käse\nKategorie: Milchprodukte\nZutaten: Milch, Salz, Lab"
+  },
+  {
+    "id": "p30",
+    "title": "Bio Hähnchenbrust",
+    "category": "Fleisch",
+    "ingredients": [
+      "Hähnchenfleisch"
+    ],
+    "embedded_text": "Titel: Bio Hähnchenbrust\nKategorie: Fleisch\nZutaten: Hähnchenfleisch"
+  },
+  {
+    "id": "p31",
+    "title": "Vegane Lasagne",
+    "category": "Fertiggerichte",
+    "ingredients": [
+      "Tomaten",
+      "Sojaprotein",
+      "Nudeln",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Vegane Lasagne\nKategorie: Fertiggerichte\nZutaten: Tomaten, Sojaprotein, Nudeln, Gewürze"
+  },
+  {
+    "id": "p32",
+    "title": "Quinoa",
+    "category": "Getreide",
+    "ingredients": [
+      "Quinoa"
+    ],
+    "embedded_text": "Titel: Quinoa\nKategorie: Getreide\nZutaten: Quinoa"
+  },
+  {
+    "id": "p33",
+    "title": "Honig",
+    "category": "Süßwaren",
+    "ingredients": [
+      "Blütenhonig"
+    ],
+    "embedded_text": "Titel: Honig\nKategorie: Süßwaren\nZutaten: Blütenhonig"
+  },
+  {
+    "id": "p34",
+    "title": "Apfelstrudel",
+    "category": "Backwaren",
+    "ingredients": [
+      "Äpfel",
+      "Weizenmehl",
+      "Zucker",
+      "Zimt"
+    ],
+    "embedded_text": "Titel: Apfelstrudel\nKategorie: Backwaren\nZutaten: Äpfel, Weizenmehl, Zucker, Zimt"
+  },
+  {
+    "id": "p35",
+    "title": "Karottensaft",
+    "category": "Getränke",
+    "ingredients": [
+      "Karotten"
+    ],
+    "embedded_text": "Titel: Karottensaft\nKategorie: Getränke\nZutaten: Karotten"
+  },
+  {
+    "id": "p36",
+    "title": "Bio Tofu Natur",
+    "category": "Vegetarisch",
+    "ingredients": [
+      "Sojabohnen",
+      "Wasser"
+    ],
+    "embedded_text": "Titel: Bio Tofu Natur\nKategorie: Vegetarisch\nZutaten: Sojabohnen, Wasser"
+  },
+  {
+    "id": "p37",
+    "title": "Salami",
+    "category": "Wurstwaren",
+    "ingredients": [
+      "Schweinefleisch",
+      "Salz",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Salami\nKategorie: Wurstwaren\nZutaten: Schweinefleisch, Salz, Gewürze"
+  },
+  {
+    "id": "p38",
+    "title": "Kürbiskernöl",
+    "category": "Öle",
+    "ingredients": [
+      "Kürbiskerne"
+    ],
+    "embedded_text": "Titel: Kürbiskernöl\nKategorie: Öle\nZutaten: Kürbiskerne"
+  },
+  {
+    "id": "p39",
+    "title": "Apfel-Birnen Saft",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfel",
+      "Birne"
+    ],
+    "embedded_text": "Titel: Apfel-Birnen Saft\nKategorie: Getränke\nZutaten: Apfel, Birne"
+  },
+  {
+    "id": "p40",
+    "title": "Frischkäse Natur",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch",
+      "Salz",
+      "Kulturen"
+    ],
+    "embedded_text": "Titel: Frischkäse Natur\nKategorie: Milchprodukte\nZutaten: Milch, Salz, Kulturen"
+  },
+  {
+    "id": "p41",
+    "title": "Dinkelmehl",
+    "category": "Backzutaten",
+    "ingredients": [
+      "Dinkel"
+    ],
+    "embedded_text": "Titel: Dinkelmehl\nKategorie: Backzutaten\nZutaten: Dinkel"
+  },
+  {
+    "id": "p42",
+    "title": "Tomatenmark",
+    "category": "Saucen",
+    "ingredients": [
+      "Tomaten"
+    ],
+    "embedded_text": "Titel: Tomatenmark\nKategorie: Saucen\nZutaten: Tomaten"
+  },
+  {
+    "id": "p43",
+    "title": "Rucola",
+    "category": "Gemüse",
+    "ingredients": [
+      "Rucola"
+    ],
+    "embedded_text": "Titel: Rucola\nKategorie: Gemüse\nZutaten: Rucola"
+  },
+  {
+    "id": "p44",
+    "title": "Apfelchips",
+    "category": "Snacks",
+    "ingredients": [
+      "Äpfel"
+    ],
+    "embedded_text": "Titel: Apfelchips\nKategorie: Snacks\nZutaten: Äpfel"
+  },
+  {
+    "id": "p45",
+    "title": "Cashewkerne",
+    "category": "Nüsse",
+    "ingredients": [
+      "Cashewkerne"
+    ],
+    "embedded_text": "Titel: Cashewkerne\nKategorie: Nüsse\nZutaten: Cashewkerne"
+  },
+  {
+    "id": "p46",
+    "title": "Grüner Tee",
+    "category": "Getränke",
+    "ingredients": [
+      "Grüntee"
+    ],
+    "embedded_text": "Titel: Grüner Tee\nKategorie: Getränke\nZutaten: Grüntee"
+  },
+  {
+    "id": "p47",
+    "title": "Bio Lachsfilet",
+    "category": "Fisch",
+    "ingredients": [
+      "Lachs"
+    ],
+    "embedded_text": "Titel: Bio Lachsfilet\nKategorie: Fisch\nZutaten: Lachs"
+  },
+  {
+    "id": "p48",
+    "title": "Kichererbsen Konserve",
+    "category": "Konserven",
+    "ingredients": [
+      "Kichererbsen",
+      "Wasser",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Kichererbsen Konserve\nKategorie: Konserven\nZutaten: Kichererbsen, Wasser, Salz"
+  },
+  {
+    "id": "p49",
+    "title": "Haferflocken Feinblatt",
+    "category": "Frühstück",
+    "ingredients": [
+      "Hafer"
+    ],
+    "embedded_text": "Titel: Haferflocken Feinblatt\nKategorie: Frühstück\nZutaten: Hafer"
+  },
+  {
+    "id": "p50",
+    "title": "Apfel-Bananen Smoothie",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfel",
+      "Banane"
+    ],
+    "embedded_text": "Titel: Apfel-Bananen Smoothie\nKategorie: Getränke\nZutaten: Apfel, Banane"
+  },
+  {
+    "id": "p51",
+    "title": "Zucchini",
+    "category": "Gemüse",
+    "ingredients": [
+      "Zucchini"
+    ],
+    "embedded_text": "Titel: Zucchini\nKategorie: Gemüse\nZutaten: Zucchini"
+  },
+  {
+    "id": "p52",
+    "title": "Bio Rind Steak",
+    "category": "Fleisch",
+    "ingredients": [
+      "Rindfleisch"
+    ],
+    "embedded_text": "Titel: Bio Rind Steak\nKategorie: Fleisch\nZutaten: Rindfleisch"
+  },
+  {
+    "id": "p53",
+    "title": "Putenbrust Aufschnitt",
+    "category": "Wurstwaren",
+    "ingredients": [
+      "Putenfleisch",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Putenbrust Aufschnitt\nKategorie: Wurstwaren\nZutaten: Putenfleisch, Salz"
+  },
+  {
+    "id": "p54",
+    "title": "Vegane Margarine",
+    "category": "Aufstriche",
+    "ingredients": [
+      "Pflanzenöle",
+      "Wasser",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Vegane Margarine\nKategorie: Aufstriche\nZutaten: Pflanzenöle, Wasser, Salz"
+  },
+  {
+    "id": "p55",
+    "title": "Apfelkuchen",
+    "category": "Backwaren",
+    "ingredients": [
+      "Äpfel",
+      "Weizenmehl",
+      "Zucker",
+      "Eier"
+    ],
+    "embedded_text": "Titel: Apfelkuchen\nKategorie: Backwaren\nZutaten: Äpfel, Weizenmehl, Zucker, Eier"
+  },
+  {
+    "id": "p56",
+    "title": "Brokkoli",
+    "category": "Gemüse",
+    "ingredients": [
+      "Brokkoli"
+    ],
+    "embedded_text": "Titel: Brokkoli\nKategorie: Gemüse\nZutaten: Brokkoli"
+  },
+  {
+    "id": "p57",
+    "title": "Gnocchi",
+    "category": "Nudeln",
+    "ingredients": [
+      "Kartoffeln",
+      "Weizenmehl"
+    ],
+    "embedded_text": "Titel: Gnocchi\nKategorie: Nudeln\nZutaten: Kartoffeln, Weizenmehl"
+  },
+  {
+    "id": "p58",
+    "title": "Bio Sojadrink",
+    "category": "Getränke",
+    "ingredients": [
+      "Wasser",
+      "Sojabohnen"
+    ],
+    "embedded_text": "Titel: Bio Sojadrink\nKategorie: Getränke\nZutaten: Wasser, Sojabohnen"
+  },
+  {
+    "id": "p59",
+    "title": "Basilikum Frisch",
+    "category": "Kräuter",
+    "ingredients": [
+      "Basilikum"
+    ],
+    "embedded_text": "Titel: Basilikum Frisch\nKategorie: Kräuter\nZutaten: Basilikum"
+  },
+  {
+    "id": "p60",
+    "title": "Apfelessig",
+    "category": "Essig",
+    "ingredients": [
+      "Apfel",
+      "Essigkulturen"
+    ],
+    "embedded_text": "Titel: Apfelessig\nKategorie: Essig\nZutaten: Apfel, Essigkulturen"
+  },
+  {
+    "id": "p61",
+    "title": "Datteln",
+    "category": "Trockenfrüchte",
+    "ingredients": [
+      "Datteln"
+    ],
+    "embedded_text": "Titel: Datteln\nKategorie: Trockenfrüchte\nZutaten: Datteln"
+  },
+  {
+    "id": "p62",
+    "title": "Granatapfelsaft",
+    "category": "Getränke",
+    "ingredients": [
+      "Granatapfel"
+    ],
+    "embedded_text": "Titel: Granatapfelsaft\nKategorie: Getränke\nZutaten: Granatapfel"
+  },
+  {
+    "id": "p63",
+    "title": "Veganes Hack",
+    "category": "Vegetarisch",
+    "ingredients": [
+      "Sojaprotein",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Veganes Hack\nKategorie: Vegetarisch\nZutaten: Sojaprotein, Gewürze"
+  },
+  {
+    "id": "p64",
+    "title": "Blaubeer Muffin",
+    "category": "Backwaren",
+    "ingredients": [
+      "Weizenmehl",
+      "Zucker",
+      "Blaubeeren",
+      "Eier"
+    ],
+    "embedded_text": "Titel: Blaubeer Muffin\nKategorie: Backwaren\nZutaten: Weizenmehl, Zucker, Blaubeeren, Eier"
+  },
+  {
+    "id": "p65",
+    "title": "Apfel-Granola",
+    "category": "Frühstück",
+    "ingredients": [
+      "Hafer",
+      "Apfelstücke",
+      "Honig"
+    ],
+    "embedded_text": "Titel: Apfel-Granola\nKategorie: Frühstück\nZutaten: Hafer, Apfelstücke, Honig"
+  },
+  {
+    "id": "p66",
+    "title": "Hirse",
+    "category": "Getreide",
+    "ingredients": [
+      "Hirse"
+    ],
+    "embedded_text": "Titel: Hirse\nKategorie: Getreide\nZutaten: Hirse"
+  },
+  {
+    "id": "p67",
+    "title": "Bio Karotten",
+    "category": "Gemüse",
+    "ingredients": [
+      "Karotten"
+    ],
+    "embedded_text": "Titel: Bio Karotten\nKategorie: Gemüse\nZutaten: Karotten"
+  },
+  {
+    "id": "p68",
+    "title": "Zartbitterschokolade 85%",
+    "category": "Süßwaren",
+    "ingredients": [
+      "Kakaomasse",
+      "Kakaobutter",
+      "Zucker"
+    ],
+    "embedded_text": "Titel: Zartbitterschokolade 85%\nKategorie: Süßwaren\nZutaten: Kakaomasse, Kakaobutter, Zucker"
+  },
+  {
+    "id": "p69",
+    "title": "Pecannüsse",
+    "category": "Nüsse",
+    "ingredients": [
+      "Pecannüsse"
+    ],
+    "embedded_text": "Titel: Pecannüsse\nKategorie: Nüsse\nZutaten: Pecannüsse"
+  },
+  {
+    "id": "p70",
+    "title": "Apfel-Mango Saft",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfel",
+      "Mango"
+    ],
+    "embedded_text": "Titel: Apfel-Mango Saft\nKategorie: Getränke\nZutaten: Apfel, Mango"
+  },
+  {
+    "id": "p71",
+    "title": "Paprika Rot",
+    "category": "Gemüse",
+    "ingredients": [
+      "Paprika"
+    ],
+    "embedded_text": "Titel: Paprika Rot\nKategorie: Gemüse\nZutaten: Paprika"
+  },
+  {
+    "id": "p72",
+    "title": "Vegane Nuggets",
+    "category": "Vegetarisch",
+    "ingredients": [
+      "Weizenprotein",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Vegane Nuggets\nKategorie: Vegetarisch\nZutaten: Weizenprotein, Gewürze"
+  },
+  {
+    "id": "p73",
+    "title": "Naturjoghurt",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch",
+      "Kulturen"
+    ],
+    "embedded_text": "Titel: Naturjoghurt\nKategorie: Milchprodukte\nZutaten: Milch, Kulturen"
+  },
+  {
+    "id": "p74",
+    "title": "Bio Vollmilch",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Milch"
+    ],
+    "embedded_text": "Titel: Bio Vollmilch\nKategorie: Milchprodukte\nZutaten: Milch"
+  },
+  {
+    "id": "p75",
+    "title": "Apfel-Crumble",
+    "category": "Backwaren",
+    "ingredients": [
+      "Äpfel",
+      "Zucker",
+      "Weizenmehl",
+      "Butter"
+    ],
+    "embedded_text": "Titel: Apfel-Crumble\nKategorie: Backwaren\nZutaten: Äpfel, Zucker, Weizenmehl, Butter"
+  },
+  {
+    "id": "p76",
+    "title": "Spinat",
+    "category": "Gemüse",
+    "ingredients": [
+      "Spinat"
+    ],
+    "embedded_text": "Titel: Spinat\nKategorie: Gemüse\nZutaten: Spinat"
+  },
+  {
+    "id": "p77",
+    "title": "Bio Kartoffeln",
+    "category": "Gemüse",
+    "ingredients": [
+      "Kartoffeln"
+    ],
+    "embedded_text": "Titel: Bio Kartoffeln\nKategorie: Gemüse\nZutaten: Kartoffeln"
+  },
+  {
+    "id": "p79",
+    "title": "Apfel-Ingwer Shot",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfel",
+      "Ingwer",
+      "Zitronensaft"
+    ],
+    "embedded_text": "Titel: Apfel-Ingwer Shot\nKategorie: Getränke\nZutaten: Apfel, Ingwer, Zitronensaft"
+  },
+  {
+    "id": "p80",
+    "title": "Bio Heidelbeeren",
+    "category": "Obst",
+    "ingredients": [
+      "Heidelbeeren"
+    ],
+    "embedded_text": "Titel: Bio Heidelbeeren\nKategorie: Obst\nZutaten: Heidelbeeren"
+  },
+  {
+    "id": "p81",
+    "title": "Couscous",
+    "category": "Getreide",
+    "ingredients": [
+      "Hartweizengrieß"
+    ],
+    "embedded_text": "Titel: Couscous\nKategorie: Getreide\nZutaten: Hartweizengrieß"
+  },
+  {
+    "id": "p82",
+    "title": "Avocado",
+    "category": "Obst",
+    "ingredients": [
+      "Avocado"
+    ],
+    "embedded_text": "Titel: Avocado\nKategorie: Obst\nZutaten: Avocado"
+  },
+  {
+    "id": "p83",
+    "title": "Vegane Bratwurst",
+    "category": "Vegetarisch",
+    "ingredients": [
+      "Erbsenprotein",
+      "Rapsöl",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Vegane Bratwurst\nKategorie: Vegetarisch\nZutaten: Erbsenprotein, Rapsöl, Gewürze"
+  },
+  {
+    "id": "p84",
+    "title": "Bio Paprikachips",
+    "category": "Snacks",
+    "ingredients": [
+      "Kartoffeln",
+      "Sonnenblumenöl",
+      "Paprikagewürz",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Bio Paprikachips\nKategorie: Snacks\nZutaten: Kartoffeln, Sonnenblumenöl, Paprikagewürz, Salz"
+  },
+  {
+    "id": "p85",
+    "title": "Apfel-Hafer Riegel",
+    "category": "Snacks",
+    "ingredients": [
+      "Haferflocken",
+      "Apfelstücke",
+      "Honig"
+    ],
+    "embedded_text": "Titel: Apfel-Hafer Riegel\nKategorie: Snacks\nZutaten: Haferflocken, Apfelstücke, Honig"
+  },
+  {
+    "id": "p86",
+    "title": "Feta Käse",
+    "category": "Milchprodukte",
+    "ingredients": [
+      "Schafsmilch",
+      "Salz",
+      "Lab"
+    ],
+    "embedded_text": "Titel: Feta Käse\nKategorie: Milchprodukte\nZutaten: Schafsmilch, Salz, Lab"
+  },
+  {
+    "id": "p87",
+    "title": "Kürbissuppe",
+    "category": "Fertiggerichte",
+    "ingredients": [
+      "Kürbis",
+      "Karotten",
+      "Zwiebeln",
+      "Gewürze"
+    ],
+    "embedded_text": "Titel: Kürbissuppe\nKategorie: Fertiggerichte\nZutaten: Kürbis, Karotten, Zwiebeln, Gewürze"
+  },
+  {
+    "id": "p88",
+    "title": "Bio Zitronen",
+    "category": "Obst",
+    "ingredients": [
+      "Zitronen"
+    ],
+    "embedded_text": "Titel: Bio Zitronen\nKategorie: Obst\nZutaten: Zitronen"
+  },
+  {
+    "id": "p89",
+    "title": "Hafer Cookies",
+    "category": "Backwaren",
+    "ingredients": [
+      "Haferflocken",
+      "Weizenmehl",
+      "Zucker",
+      "Butter"
+    ],
+    "embedded_text": "Titel: Hafer Cookies\nKategorie: Backwaren\nZutaten: Haferflocken, Weizenmehl, Zucker, Butter"
+  },
+  {
+    "id": "p90",
+    "title": "Apfel-Möhren Saft",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfel",
+      "Karotte"
+    ],
+    "embedded_text": "Titel: Apfel-Möhren Saft\nKategorie: Getränke\nZutaten: Apfel, Karotte"
+  },
+  {
+    "id": "p91",
+    "title": "Bio Spaghetti",
+    "category": "Nudeln",
+    "ingredients": [
+      "Hartweizengrieß"
+    ],
+    "embedded_text": "Titel: Bio Spaghetti\nKategorie: Nudeln\nZutaten: Hartweizengrieß"
+  },
+  {
+    "id": "p92",
+    "title": "Cashew Drink",
+    "category": "Getränke",
+    "ingredients": [
+      "Wasser",
+      "Cashewkerne",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Cashew Drink\nKategorie: Getränke\nZutaten: Wasser, Cashewkerne, Salz"
+  },
+  {
+    "id": "p93",
+    "title": "Thunfisch in Wasser",
+    "category": "Fisch",
+    "ingredients": [
+      "Thunfisch",
+      "Wasser",
+      "Salz"
+    ],
+    "embedded_text": "Titel: Thunfisch in Wasser\nKategorie: Fisch\nZutaten: Thunfisch, Wasser, Salz"
+  },
+  {
+    "id": "p94",
+    "title": "Apfel-Birnen Mus",
+    "category": "Obstkonserven",
+    "ingredients": [
+      "Apfel",
+      "Birne"
+    ],
+    "embedded_text": "Titel: Apfel-Birnen Mus\nKategorie: Obstkonserven\nZutaten: Apfel, Birne"
+  },
+  {
+    "id": "p95",
+    "title": "Bio Mandeln",
+    "category": "Nüsse",
+    "ingredients": [
+      "Mandeln"
+    ],
+    "embedded_text": "Titel: Bio Mandeln\nKategorie: Nüsse\nZutaten: Mandeln"
+  },
+  {
+    "id": "p96",
+    "title": "Vegane Pizza Margherita",
+    "category": "Tiefkühlprodukte",
+    "ingredients": [
+      "Weizenmehl",
+      "Tomatensauce",
+      "Vegane Käsealternative"
+    ],
+    "embedded_text": "Titel: Vegane Pizza Margherita\nKategorie: Tiefkühlprodukte\nZutaten: Weizenmehl, Tomatensauce, Vegane Käsealternative"
+  },
+  {
+    "id": "p97",
+    "title": "Dinkelvollkornbrot",
+    "category": "Backwaren",
+    "ingredients": [
+      "Dinkelvollkornmehl",
+      "Wasser",
+      "Salz",
+      "Hefe"
+    ],
+    "embedded_text": "Titel: Dinkelvollkornbrot\nKategorie: Backwaren\nZutaten: Dinkelvollkornmehl, Wasser, Salz, Hefe"
+  },
+  {
+    "id": "p98",
+    "title": "Apfel-Blaubeer Smoothie",
+    "category": "Getränke",
+    "ingredients": [
+      "Apfel",
+      "Blaubeeren",
+      "Wasser"
+    ],
+    "embedded_text": "Titel: Apfel-Blaubeer Smoothie\nKategorie: Getränke\nZutaten: Apfel, Blaubeeren, Wasser"
+  },
+  {
+    "id": "p99",
+    "title": "Bio Walnüsse",
+    "category": "Nüsse",
+    "ingredients": [
+      "Walnüsse"
+    ],
+    "embedded_text": "Titel: Bio Walnüsse\nKategorie: Nüsse\nZutaten: Walnüsse"
+  },
+  {
+    "id": "p100",
+    "title": "Tomaten-Gemüse Saft",
+    "category": "Getränke",
+    "ingredients": [
+      "Tomaten",
+      "Karotten",
+      "Sellerie"
+    ],
+    "embedded_text": "Titel: Tomaten-Gemüse Saft\nKategorie: Getränke\nZutaten: Tomaten, Karotten, Sellerie"
+  }
+]
