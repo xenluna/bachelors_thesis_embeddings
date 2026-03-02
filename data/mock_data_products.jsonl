@@ -1,0 +1,99 @@
+{"id":"p1","title":"Bio Haferdrink Natur","ingredients":["Wasser","Hafer","Salz"],"category":"Getränke"}
+{"id":"p2","title":"Tomatensauce Basilikum","ingredients":["Tomaten","Basilikum","Olivenöl","Salz"],"category":"Saucen"}
+{"id":"p3","title":"Vollkorn Spaghetti","ingredients":["Hartweizengrieß","Vollkornmehl"],"category":"Nudeln"}
+{"id":"p4","title":"Griechischer Joghurt 10%","ingredients":["Milch","Joghurtkulturen"],"category":"Milchprodukte"}
+{"id":"p5","title":"Veganes Proteinriegel Schoko","ingredients":["Erbsenprotein","Kakao","Datteln","Mandeln"],"category":"Snacks"}
+{"id":"p6","title":"Apfelsaft Naturtrüb","ingredients":["Apfelsaft"],"category":"Getränke"}
+{"id":"p7","title":"Hummus Classic","ingredients":["Kichererbsen","Tahini","Olivenöl","Knoblauch","Zitronensaft","Salz"],"category":"Aufstriche"}
+{"id":"p8","title":"Buttercroissant","ingredients":["Weizenmehl","Butter","Zucker","Hefe","Salz"],"category":"Backwaren"}
+{"id":"p9","title":"Bio Eier Freiland","ingredients":["Eier"],"category":"Eier"}
+{"id":"p10","title":"Cheddar Käse Mild","ingredients":["Milch","Salz","Lab","Kulturen"],"category":"Milchprodukte"}
+{"id":"p11","title":"Linsensuppe Vegan","ingredients":["Linsen","Karotten","Zwiebeln","Sellerie","Gewürze","Salz"],"category":"Fertiggerichte"}
+{"id":"p12","title":"Mineralwasser Sprudel","ingredients":["Mineralwasser","Kohlensäure"],"category":"Getränke"}
+{"id":"p13","title":"Erdnussbutter Crunchy","ingredients":["Erdnüsse","Salz"],"category":"Aufstriche"}
+{"id":"p14","title":"Mozzarella Kugel","ingredients":["Milch","Salz","Lab","Kulturen"],"category":"Milchprodukte"}
+{"id":"p15","title":"Gefrorene Beerenmischung","ingredients":["Erdbeeren","Himbeeren","Blaubeeren"],"category":"Tiefkühlprodukte"}
+{"id":"p16","title":"Rinderhackfleisch","ingredients":["Rindfleisch"],"category":"Fleisch"}
+{"id":"p17","title":"Gemüsebrühe Pulver","ingredients":["Salz","Karotten","Zwiebeln","Sellerie","Gewürze"],"category":"Gewürze"}
+{"id":"p18","title":"Dunkle Schokolade 70%","ingredients":["Kakaomasse","Kakaobutter","Zucker","Vanille"],"category":"Süßwaren"}
+{"id":"p19","title":"Mandeldrink Ungesüßt","ingredients":["Wasser","Mandeln","Salz"],"category":"Getränke"}
+{"id":"p20","title":"Pesto Genovese","ingredients":["Basilikum","Olivenöl","Pinienkerne","Parmesan","Knoblauch","Salz"],"category":"Saucen"}
+{"id":"p21","title":"Apfelmus Ungesüßt","ingredients":["Äpfel"],"category":"Obstkonserven"}
+{"id":"p22","title":"Apfel-Zimt Müsli","ingredients":["Haferflocken","Apfelstücke","Zimt","Rosinen"],"category":"Frühstück"}
+{"id":"p23","title":"Bananen Smoothie","ingredients":["Banane","Wasser"],"category":"Getränke"}
+{"id":"p24","title":"Vollkornreis","ingredients":["Reis"],"category":"Reis"}
+{"id":"p25","title":"Kokosmilch","ingredients":["Kokosnussextrakt","Wasser"],"category":"Konserven"}
+{"id":"p26","title":"Roggenbrot","ingredients":["Roggenmehl","Wasser","Salz","Hefe"],"category":"Backwaren"}
+{"id":"p27","title":"Chia Samen","ingredients":["Chiasamen"],"category":"Superfoods"}
+{"id":"p28","title":"Mango Fruchtpüree","ingredients":["Mango"],"category":"Obstkonserven"}
+{"id":"p29","title":"Gouda Käse","ingredients":["Milch","Salz","Lab"],"category":"Milchprodukte"}
+{"id":"p30","title":"Bio Hähnchenbrust","ingredients":["Hähnchenfleisch"],"category":"Fleisch"}
+{"id":"p31","title":"Vegane Lasagne","ingredients":["Tomaten","Sojaprotein","Nudeln","Gewürze"],"category":"Fertiggerichte"}
+{"id":"p32","title":"Quinoa","ingredients":["Quinoa"],"category":"Getreide"}
+{"id":"p33","title":"Honig","ingredients":["Blütenhonig"],"category":"Süßwaren"}
+{"id":"p34","title":"Apfelstrudel","ingredients":["Äpfel","Weizenmehl","Zucker","Zimt"],"category":"Backwaren"}
+{"id":"p35","title":"Karottensaft","ingredients":["Karotten"],"category":"Getränke"}
+{"id":"p36","title":"Bio Tofu Natur","ingredients":["Sojabohnen","Wasser"],"category":"Vegetarisch"}
+{"id":"p37","title":"Salami","ingredients":["Schweinefleisch","Salz","Gewürze"],"category":"Wurstwaren"}
+{"id":"p38","title":"Kürbiskernöl","ingredients":["Kürbiskerne"],"category":"Öle"}
+{"id":"p39","title":"Apfel-Birnen Saft","ingredients":["Apfel","Birne"],"category":"Getränke"}
+{"id":"p40","title":"Frischkäse Natur","ingredients":["Milch","Salz","Kulturen"],"category":"Milchprodukte"}
+{"id":"p41","title":"Dinkelmehl","ingredients":["Dinkel"],"category":"Backzutaten"}
+{"id":"p42","title":"Tomatenmark","ingredients":["Tomaten"],"category":"Saucen"}
+{"id":"p43","title":"Rucola","ingredients":["Rucola"],"category":"Gemüse"}
+{"id":"p44","title":"Apfelchips","ingredients":["Äpfel"],"category":"Snacks"}
+{"id":"p45","title":"Cashewkerne","ingredients":["Cashewkerne"],"category":"Nüsse"}
+{"id":"p46","title":"Grüner Tee","ingredients":["Grüntee"],"category":"Getränke"}
+{"id":"p47","title":"Bio Lachsfilet","ingredients":["Lachs"],"category":"Fisch"}
+{"id":"p48","title":"Kichererbsen Konserve","ingredients":["Kichererbsen","Wasser","Salz"],"category":"Konserven"}
+{"id":"p49","title":"Haferflocken Feinblatt","ingredients":["Hafer"],"category":"Frühstück"}
+{"id":"p50","title":"Apfel-Bananen Smoothie","ingredients":["Apfel","Banane"],"category":"Getränke"}
+{"id":"p51","title":"Zucchini","ingredients":["Zucchini"],"category":"Gemüse"}
+{"id":"p52","title":"Bio Rind Steak","ingredients":["Rindfleisch"],"category":"Fleisch"}
+{"id":"p53","title":"Putenbrust Aufschnitt","ingredients":["Putenfleisch","Salz"],"category":"Wurstwaren"}
+{"id":"p54","title":"Vegane Margarine","ingredients":["Pflanzenöle","Wasser","Salz"],"category":"Aufstriche"}
+{"id":"p55","title":"Apfelkuchen","ingredients":["Äpfel","Weizenmehl","Zucker","Eier"],"category":"Backwaren"}
+{"id":"p56","title":"Brokkoli","ingredients":["Brokkoli"],"category":"Gemüse"}
+{"id":"p57","title":"Gnocchi","ingredients":["Kartoffeln","Weizenmehl"],"category":"Nudeln"}
+{"id":"p58","title":"Bio Sojadrink","ingredients":["Wasser","Sojabohnen"],"category":"Getränke"}
+{"id":"p59","title":"Basilikum Frisch","ingredients":["Basilikum"],"category":"Kräuter"}
+{"id":"p60","title":"Apfelessig","ingredients":["Apfel","Essigkulturen"],"category":"Essig"}
+{"id":"p61","title":"Datteln","ingredients":["Datteln"],"category":"Trockenfrüchte"}
+{"id":"p62","title":"Granatapfelsaft","ingredients":["Granatapfel"],"category":"Getränke"}
+{"id":"p63","title":"Veganes Hack","ingredients":["Sojaprotein","Gewürze"],"category":"Vegetarisch"}
+{"id":"p64","title":"Blaubeer Muffin","ingredients":["Weizenmehl","Zucker","Blaubeeren","Eier"],"category":"Backwaren"}
+{"id":"p65","title":"Apfel-Granola","ingredients":["Hafer","Apfelstücke","Honig"],"category":"Frühstück"}
+{"id":"p66","title":"Hirse","ingredients":["Hirse"],"category":"Getreide"}
+{"id":"p67","title":"Bio Karotten","ingredients":["Karotten"],"category":"Gemüse"}
+{"id":"p68","title":"Zartbitterschokolade 85%","ingredients":["Kakaomasse","Kakaobutter","Zucker"],"category":"Süßwaren"}
+{"id":"p69","title":"Pecannüsse","ingredients":["Pecannüsse"],"category":"Nüsse"}
+{"id":"p70","title":"Apfel-Mango Saft","ingredients":["Apfel","Mango"],"category":"Getränke"}
+{"id":"p71","title":"Paprika Rot","ingredients":["Paprika"],"category":"Gemüse"}
+{"id":"p72","title":"Vegane Nuggets","ingredients":["Weizenprotein","Gewürze"],"category":"Vegetarisch"}
+{"id":"p73","title":"Naturjoghurt","ingredients":["Milch","Kulturen"],"category":"Milchprodukte"}
+{"id":"p74","title":"Bio Vollmilch","ingredients":["Milch"],"category":"Milchprodukte"}
+{"id":"p75","title":"Apfel-Crumble","ingredients":["Äpfel","Zucker","Weizenmehl","Butter"],"category":"Backwaren"}
+{"id":"p76","title":"Spinat","ingredients":["Spinat"],"category":"Gemüse"}
+{"id":"p77","title":"Bio Kartoffeln","ingredients":["Kartoffeln"],"category":"Gemüse"}
+{"id":"p79","title":"Apfel-Ingwer Shot","ingredients":["Apfel","Ingwer","Zitronensaft"],"category":"Getränke"}
+{"id":"p80","title":"Bio Heidelbeeren","ingredients":["Heidelbeeren"],"category":"Obst"}
+{"id":"p81","title":"Couscous","ingredients":["Hartweizengrieß"],"category":"Getreide"}
+{"id":"p82","title":"Avocado","ingredients":["Avocado"],"category":"Obst"}
+{"id":"p83","title":"Vegane Bratwurst","ingredients":["Erbsenprotein","Rapsöl","Gewürze"],"category":"Vegetarisch"}
+{"id":"p84","title":"Bio Paprikachips","ingredients":["Kartoffeln","Sonnenblumenöl","Paprikagewürz","Salz"],"category":"Snacks"}
+{"id":"p85","title":"Apfel-Hafer Riegel","ingredients":["Haferflocken","Apfelstücke","Honig"],"category":"Snacks"}
+{"id":"p86","title":"Feta Käse","ingredients":["Schafsmilch","Salz","Lab"],"category":"Milchprodukte"}
+{"id":"p87","title":"Kürbissuppe","ingredients":["Kürbis","Karotten","Zwiebeln","Gewürze"],"category":"Fertiggerichte"}
+{"id":"p88","title":"Bio Zitronen","ingredients":["Zitronen"],"category":"Obst"}
+{"id":"p89","title":"Hafer Cookies","ingredients":["Haferflocken","Weizenmehl","Zucker","Butter"],"category":"Backwaren"}
+{"id":"p90","title":"Apfel-Möhren Saft","ingredients":["Apfel","Karotte"],"category":"Getränke"}
+{"id":"p91","title":"Bio Spaghetti","ingredients":["Hartweizengrieß"],"category":"Nudeln"}
+{"id":"p92","title":"Cashew Drink","ingredients":["Wasser","Cashewkerne","Salz"],"category":"Getränke"}
+{"id":"p93","title":"Thunfisch in Wasser","ingredients":["Thunfisch","Wasser","Salz"],"category":"Fisch"}
+{"id":"p94","title":"Apfel-Birnen Mus","ingredients":["Apfel","Birne"],"category":"Obstkonserven"}
+{"id":"p95","title":"Bio Mandeln","ingredients":["Mandeln"],"category":"Nüsse"}
+{"id":"p96","title":"Vegane Pizza Margherita","ingredients":["Weizenmehl","Tomatensauce","Vegane Käsealternative"],"category":"Tiefkühlprodukte"}
+{"id":"p97","title":"Dinkelvollkornbrot","ingredients":["Dinkelvollkornmehl","Wasser","Salz","Hefe"],"category":"Backwaren"}
+{"id":"p98","title":"Apfel-Blaubeer Smoothie","ingredients":["Apfel","Blaubeeren","Wasser"],"category":"Getränke"}
+{"id":"p99","title":"Bio Walnüsse","ingredients":["Walnüsse"],"category":"Nüsse"}
+{"id":"p100","title":"Tomaten-Gemüse Saft","ingredients":["Tomaten","Karotten","Sellerie"],"category":"Getränke"}
