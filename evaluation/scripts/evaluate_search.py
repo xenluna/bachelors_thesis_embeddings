@@ -1,8 +1,5 @@
 """Quantitative Evaluation der semantischen Produktsuche.
 
-Ausfuehrung aus dem Repository-Root:
-    python evaluation/evaluate_search.py
-
 Erzeugt:
     evaluation/results/search_evaluation.csv
     evaluation/results/search_evaluation.json
@@ -228,7 +225,7 @@ def print_result(result: Dict[str, Any]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Evaluate semantic product search.")
-    parser.add_argument("--ground-truth", type=Path, default=REPO_ROOT / "evaluation" / "ground_truth.json")
+    parser.add_argument("--ground-truth", type=Path, default=REPO_ROOT / "evaluation" / "data" / "ground_truth.json")
     parser.add_argument("--products", type=Path, default=REPO_ROOT / "data" / "mock_data_products.jsonl")
     parser.add_argument("--index-dir", type=Path, default=REPO_ROOT / "product_index")
     parser.add_argument("--model-name", default=DEFAULT_MODEL_NAME)
