@@ -13,9 +13,9 @@ deployment = "gpt-4.1-mini"
 
 #ToDo: Add Key Credentials
 client = AzureOpenAI(
-    api_version=,
-    azure_endpoint=,
-    api_key=
+    api_version="2024-12-01-preview",
+    azure_endpoint="https://rsg-genai-dev-weu1-sparow-ai-foundry.cognitiveservices.azure.com/",
+    api_key="6DO2azU7x5MDKf0G1wB9znVpbIoBaxkaWFJmM5j3r5MpEPejP9JCJQQJ99CBACfhMk5XJ3w3AAAAACOGim5m"
 )
 
 # -------- Tool dispatch --------
