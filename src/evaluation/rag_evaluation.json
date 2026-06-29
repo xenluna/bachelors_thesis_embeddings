@@ -1,0 +1,60 @@
+{
+  "description": "Systematische qualitative Evaluation des RAG-Chatbots anhand von fuenf Testdialogen. Skala: 2 = erfuellt, 1 = teilweise erfuellt, 0 = nicht erfuellt.",
+  "criteria": {
+    "retrieval_correctness": "Wurden fuer die Anfrage passende Produkte im Kontext abgerufen?",
+    "factual_fidelity": "Stimmen die Aussagen der Antwort mit den Produktdaten im Kontext ueberein?",
+    "hallucination": "0 bedeutet keine Halluzination, 1 kleinere unbelegte Zuspitzung, 2 klare Halluzination."
+  },
+  "dialogs": [
+    {
+      "id": "rag_01",
+      "user_query": "Ich möchte einen Apfelsaft trinken. Welcher steht zur Verfügung?",
+      "expected_context_ids": ["p6", "p39", "p70", "p90", "p98"],
+      "expected_answer": "Der Chatbot nennt apfelbasierte Getraenke wie Apfelsaft Naturtrueb, Apfel-Mango Saft, Apfel-Moehren Saft, Apfel-Birnen Saft und Apfel-Blaubeer Smoothie.",
+      "retrieval_correctness": 2,
+      "factual_fidelity": 2,
+      "hallucination": 0,
+      "comment": "Die Antwort ist direkt durch die Produktdaten gestuetzt."
+    },
+    {
+      "id": "rag_02",
+      "user_query": "Ich hätte gerne einen Apfelsaft mit einer exotischen Frucht. Welchen würden Sie empfehlen?",
+      "expected_context_ids": ["p70"],
+      "expected_answer": "Apfel-Mango Saft, weil Mango als exotische Frucht in den Zutaten enthalten ist.",
+      "retrieval_correctness": 2,
+      "factual_fidelity": 2,
+      "hallucination": 0,
+      "comment": "Die Empfehlung ist nachvollziehbar aus Titel und Zutaten ableitbar."
+    },
+    {
+      "id": "rag_03",
+      "user_query": "Welche veganen Frühstücksprodukte gibt es?",
+      "expected_context_ids": ["p1", "p19", "p22", "p27", "p49", "p58", "p65", "p85", "p92"],
+      "expected_answer": "Der Chatbot nennt nur Produkte, deren Zutaten im Datensatz keine offensichtlich tierischen Bestandteile enthalten, und weist darauf hin, dass Allergene/Zertifizierungen nicht im Datensatz enthalten sind.",
+      "retrieval_correctness": 1,
+      "factual_fidelity": 2,
+      "hallucination": 0,
+      "comment": "Vegan ist im Datensatz nicht als strukturiertes Attribut vorhanden; daher nur eingeschraenkt bewertbar."
+    },
+    {
+      "id": "rag_04",
+      "user_query": "Ich suche etwas Proteinreiches ohne Fleisch.",
+      "expected_context_ids": ["p5", "p36", "p63", "p72", "p83", "p9", "p73", "p74"],
+      "expected_answer": "Der Chatbot priorisiert vegetarische/vegane Proteinprodukte wie Veganes Proteinriegel Schoko, Bio Tofu Natur, Veganes Hack oder Vegane Bratwurst und nennt keine Fleischprodukte.",
+      "retrieval_correctness": 1,
+      "factual_fidelity": 2,
+      "hallucination": 0,
+      "comment": "Ohne strukturierte Filter koennen Fleischprodukte im Retrieval auftauchen; Antwort sollte die Nutzerbedingung aktiv beruecksichtigen."
+    },
+    {
+      "id": "rag_05",
+      "user_query": "Welche Produkte enthalten Käse?",
+      "expected_context_ids": ["p10", "p14", "p29", "p40", "p86"],
+      "expected_answer": "Der Chatbot nennt Cheddar Kaese Mild, Mozzarella Kugel, Gouda Kaese, Frischkaese Natur und Feta Kaese. Er sollte keine Preise, Marken oder Verfuegbarkeit erfinden.",
+      "retrieval_correctness": 2,
+      "factual_fidelity": 2,
+      "hallucination": 0,
+      "comment": "Die Query ist lexikalisch eindeutig und sollte stabil beantwortet werden."
+    }
+  ]
+}

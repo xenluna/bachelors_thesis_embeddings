@@ -1,0 +1,124 @@
+RAG Evaluation Transcript
+Generated at: 2026-06-29T11:21:50
+
+================================================================================
+Dialog: rag_01_apfelsaft_exotisch
+Beschreibung: Mehrstufiger Dialog zu Apfelsaft und exotischer Frucht
+
+Turn 1
+User: Ich möchte einen Apfelsaft trinken. Welcher steht zur Verfügung?
+
+Retrieval Top-5:
+1. Apfel-Möhren Saft | Kategorie: Getränke | Score: 0.7237 | Zutaten: ['Apfel', 'Karotte']
+2. Apfel-Blaubeer Smoothie | Kategorie: Getränke | Score: 0.7099 | Zutaten: ['Apfel', 'Blaubeeren', 'Wasser']
+3. Apfelsaft Naturtrüb | Kategorie: Getränke | Score: 0.7069 | Zutaten: ['Apfelsaft']
+4. Apfel-Birnen Saft | Kategorie: Getränke | Score: 0.7039 | Zutaten: ['Apfel', 'Birne']
+5. Apfel-Ingwer Shot | Kategorie: Getränke | Score: 0.6975 | Zutaten: ['Apfel', 'Ingwer', 'Zitronensaft']
+
+Assistant: Folgende Apfelsaft-Getränke stehen zur Verfügung: Apfel-Möhren Saft, Apfel-Blaubeer Smoothie, Apfelsaft Naturtrüb, Apfel-Birnen Saft und Apfel-Ingwer Shot.
+
+Turn 2
+User: Ich hätte gerne einen Apfelsaft mit einer exotischen Frucht. Welchen würden Sie mir empfehlen?
+
+Retrieval Top-5:
+1. Apfel-Mango Saft | Kategorie: Getränke | Score: 0.7279 | Zutaten: ['Apfel', 'Mango']
+2. Apfelmus Ungesüßt | Kategorie: Obstkonserven | Score: 0.7233 | Zutaten: ['Äpfel']
+3. Apfel-Möhren Saft | Kategorie: Getränke | Score: 0.7035 | Zutaten: ['Apfel', 'Karotte']
+4. Apfel-Blaubeer Smoothie | Kategorie: Getränke | Score: 0.6969 | Zutaten: ['Apfel', 'Blaubeeren', 'Wasser']
+5. Apfel-Bananen Smoothie | Kategorie: Getränke | Score: 0.683 | Zutaten: ['Apfel', 'Banane']
+
+Assistant: Ich empfehle Ihnen den Apfel-Mango Saft, der Apfel mit der exotischen Frucht Mango kombiniert.
+
+Bewertung:
+- Retrieval-Korrektheit: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Faktentreue: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Halluzination: TODO: nein / gering / ja
+- Kommentar: TODO
+
+================================================================================
+Dialog: rag_02_veganes_fruehstueck
+Beschreibung: Produktempfehlung für veganes Frühstück
+
+Turn 1
+User: Welche veganen Frühstücksprodukte gibt es?
+
+Retrieval Top-5:
+1. Veganes Proteinriegel Schoko | Kategorie: Snacks | Score: 0.7257 | Zutaten: ['Erbsenprotein', 'Kakao', 'Datteln', 'Mandeln']
+2. Veganes Hack | Kategorie: Vegetarisch | Score: 0.7135 | Zutaten: ['Sojaprotein', 'Gewürze']
+3. Vegane Bratwurst | Kategorie: Vegetarisch | Score: 0.7039 | Zutaten: ['Erbsenprotein', 'Rapsöl', 'Gewürze']
+4. Vegane Nuggets | Kategorie: Vegetarisch | Score: 0.6969 | Zutaten: ['Weizenprotein', 'Gewürze']
+5. Vegane Pizza Margherita | Kategorie: Tiefkühlprodukte | Score: 0.6839 | Zutaten: ['Weizenmehl', 'Tomatensauce', 'Vegane Käsealternative']
+
+Assistant: Als veganes Frühstücksprodukt gibt es im Kontext den "Veganen Proteinriegel Schoko" mit Zutaten wie Erbsenprotein, Kakao, Datteln und Mandeln. Andere Produkte im Kontext sind nicht speziell als Frühstücksprodukte gekennzeichnet.
+
+Bewertung:
+- Retrieval-Korrektheit: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Faktentreue: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Halluzination: TODO: nein / gering / ja
+- Kommentar: TODO
+
+================================================================================
+Dialog: rag_03_proteinreiche_produkte
+Beschreibung: Produktempfehlung für proteinreiche Produkte
+
+Turn 1
+User: Ich suche proteinreiche Produkte. Was kannst du empfehlen?
+
+Retrieval Top-5:
+1. Veganes Proteinriegel Schoko | Kategorie: Snacks | Score: 0.6329 | Zutaten: ['Erbsenprotein', 'Kakao', 'Datteln', 'Mandeln']
+2. Vegane Nuggets | Kategorie: Vegetarisch | Score: 0.5682 | Zutaten: ['Weizenprotein', 'Gewürze']
+3. Veganes Hack | Kategorie: Vegetarisch | Score: 0.5656 | Zutaten: ['Sojaprotein', 'Gewürze']
+4. Vegane Bratwurst | Kategorie: Vegetarisch | Score: 0.5168 | Zutaten: ['Erbsenprotein', 'Rapsöl', 'Gewürze']
+5. Bio Hähnchenbrust | Kategorie: Fleisch | Score: 0.5132 | Zutaten: ['Hähnchenfleisch']
+
+Assistant: Ich kann dir folgende proteinreiche Produkte empfehlen: Veganes Proteinriegel Schoko mit Erbsenprotein, Vegane Nuggets mit Weizenprotein, Veganes Hack mit Sojaprotein, Vegane Bratwurst mit Erbsenprotein und Bio Hähnchenbrust mit Hähnchenfleisch.
+
+Bewertung:
+- Retrieval-Korrektheit: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Faktentreue: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Halluzination: TODO: nein / gering / ja
+- Kommentar: TODO
+
+================================================================================
+Dialog: rag_04_bio_produkte
+Beschreibung: Suche nach Bio-Produkten
+
+Turn 1
+User: Gibt es Bio-Produkte?
+
+Retrieval Top-5:
+1. Bio Sojadrink | Kategorie: Getränke | Score: 0.6017 | Zutaten: ['Wasser', 'Sojabohnen']
+2. Bio Walnüsse | Kategorie: Nüsse | Score: 0.5932 | Zutaten: ['Walnüsse']
+3. Bio Haferdrink Natur | Kategorie: Getränke | Score: 0.5847 | Zutaten: ['Wasser', 'Hafer', 'Salz']
+4. Bio Hähnchenbrust | Kategorie: Fleisch | Score: 0.5662 | Zutaten: ['Hähnchenfleisch']
+5. Bio Lachsfilet | Kategorie: Fisch | Score: 0.566 | Zutaten: ['Lachs']
+
+Assistant: Ja, es gibt Bio-Produkte wie Bio Sojadrink, Bio Walnüsse, Bio Haferdrink Natur, Bio Hähnchenbrust und Bio Lachsfilet.
+
+Bewertung:
+- Retrieval-Korrektheit: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Faktentreue: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Halluzination: TODO: nein / gering / ja
+- Kommentar: TODO
+
+================================================================================
+Dialog: rag_05_schokolade
+Beschreibung: Suche nach Schokoladenprodukten
+
+Turn 1
+User: Welche Schokolade gibt es?
+
+Retrieval Top-5:
+1. Dunkle Schokolade 70% | Kategorie: Süßwaren | Score: 0.7293 | Zutaten: ['Kakaomasse', 'Kakaobutter', 'Zucker', 'Vanille']
+2. Zartbitterschokolade 85% | Kategorie: Süßwaren | Score: 0.6668 | Zutaten: ['Kakaomasse', 'Kakaobutter', 'Zucker']
+3. Hafer Cookies | Kategorie: Backwaren | Score: 0.5018 | Zutaten: ['Haferflocken', 'Weizenmehl', 'Zucker', 'Butter']
+4. Rucola | Kategorie: Gemüse | Score: 0.4962 | Zutaten: ['Rucola']
+5. Mandeldrink Ungesüßt | Kategorie: Getränke | Score: 0.4938 | Zutaten: ['Wasser', 'Mandeln', 'Salz']
+
+Assistant: Es gibt folgende Schokoladen: Dunkle Schokolade 70% mit Kakaomasse, Kakaobutter, Zucker und Vanille sowie Zartbitterschokolade 85% mit Kakaomasse, Kakaobutter und Zucker.
+
+Bewertung:
+- Retrieval-Korrektheit: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Faktentreue: TODO: korrekt / teilweise korrekt / nicht korrekt
+- Halluzination: TODO: nein / gering / ja
+- Kommentar: TODO

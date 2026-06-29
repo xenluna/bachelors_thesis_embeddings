@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\small
+\begin{tabular}{lrrrr}
+\toprule
+Query & Precision@5 & Recall@5 & MRR & nDCG@5 \\
+\midrule
+Apfel & 0.400 & 0.118 & 0.250 & 0.277 \\
+Apfelsaft naturtrüb & 0.200 & 1.000 & 1.000 & 1.000 \\
+veganes Frühstück & 0.000 & 0.000 & 0.000 & 0.000 \\
+italienische Pasta mit Tomate und Basilikum & 0.600 & 0.375 & 1.000 & 0.723 \\
+proteinreiche Produkte & 0.800 & 0.286 & 1.000 & 0.869 \\
+Bio Produkte & 1.000 & 0.312 & 1.000 & 1.000 \\
+Schokolade & 0.400 & 0.667 & 1.000 & 0.765 \\
+Käse & 0.800 & 0.800 & 0.500 & 0.661 \\
+exotische Getränke & 0.200 & 0.143 & 1.000 & 0.339 \\
+Nüsse und Kerne & 0.800 & 0.571 & 1.000 & 0.869 \\
+\midrule
+Durchschnitt & 0.520 & 0.427 & 0.775 & 0.650 \\
+\bottomrule
+\end{tabular}
+\caption{Quantitative Evaluation der semantischen Produktsuche bei $k=5$ auf zehn manuell annotierten Test-Queries.}
+\label{tab:search-evaluation}
+\end{table}

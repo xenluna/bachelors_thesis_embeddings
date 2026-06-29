@@ -1,0 +1,56 @@
+{
+  "description": "Manuell erstellte Ground Truth fuer die quantitative Evaluation der semantischen Produktsuche. Die Relevanzlabels beziehen sich auf die 99 Produkte aus data/mock_data_products.jsonl und bewerten, ob ein Produkt aus Nutzersicht zur Query passt.",
+  "k": 5,
+  "queries": [
+    {
+      "query": "Apfel",
+      "relevant_product_ids": ["p6", "p21", "p22", "p34", "p39", "p44", "p50", "p55", "p60", "p65", "p70", "p75", "p79", "p85", "p90", "p94", "p98"],
+      "comment": "Breite Query: alle Produkte mit Apfel/Äpfel als Produktbestandteil, Zutat oder Geschmacksrichtung. Granatapfelsaft ist bewusst nicht relevant."
+    },
+    {
+      "query": "Apfelsaft naturtrüb",
+      "relevant_product_ids": ["p6"],
+      "comment": "Sehr spezifische Query: exakt passendes Produkt."
+    },
+    {
+      "query": "veganes Frühstück",
+      "relevant_product_ids": ["p1", "p19", "p22", "p27", "p49", "p58", "p65", "p85", "p92"],
+      "comment": "Frühstücksnahe Produkte ohne offensichtlich tierische Zutaten laut Produktdaten."
+    },
+    {
+      "query": "italienische Pasta mit Tomate und Basilikum",
+      "relevant_product_ids": ["p2", "p3", "p14", "p20", "p42", "p57", "p59", "p91"],
+      "comment": "Pasta-, Tomaten-, Basilikum- und klassische italienische Begleitprodukte."
+    },
+    {
+      "query": "proteinreiche Produkte",
+      "relevant_product_ids": ["p5", "p9", "p16", "p30", "p36", "p47", "p52", "p53", "p63", "p72", "p73", "p74", "p83", "p93"],
+      "comment": "Fleisch, Fisch, Eier, Milchprodukte sowie explizite oder typische vegetarische Proteinprodukte."
+    },
+    {
+      "query": "Bio Produkte",
+      "relevant_product_ids": ["p1", "p9", "p30", "p36", "p47", "p52", "p58", "p67", "p74", "p77", "p80", "p84", "p88", "p91", "p95", "p99"],
+      "comment": "Produkte, deren Titel explizit Bio enthaelt."
+    },
+    {
+      "query": "Schokolade",
+      "relevant_product_ids": ["p5", "p18", "p68"],
+      "comment": "Explizite Schokoladenprodukte sowie Schoko-Proteinriegel."
+    },
+    {
+      "query": "Käse",
+      "relevant_product_ids": ["p10", "p14", "p29", "p40", "p86"],
+      "comment": "Milchbasierte Kaeseprodukte; vegane Pizza mit Kaesealternative wird nicht als Kaeseprodukt gelabelt."
+    },
+    {
+      "query": "exotische Getränke",
+      "relevant_product_ids": ["p23", "p25", "p50", "p62", "p70", "p92", "p98"],
+      "comment": "Getraenke oder trinknahe Produkte mit Banane, Kokos, Granatapfel, Mango, Cashew oder Blaubeere."
+    },
+    {
+      "query": "Nüsse und Kerne",
+      "relevant_product_ids": ["p13", "p27", "p38", "p45", "p69", "p95", "p99"],
+      "comment": "Nuesse, Kerne/Samen und nussbasierte Aufstriche."
+    }
+  ]
+}

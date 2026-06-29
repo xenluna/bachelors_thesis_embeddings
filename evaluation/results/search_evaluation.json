@@ -1,0 +1,233 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "k": 5,
+  "num_queries": 10,
+  "per_query": [
+    {
+      "query": "Apfel",
+      "num_relevant": 17,
+      "top_k_ids": [
+        "p82",
+        "p49",
+        "p59",
+        "p21",
+        "p94"
+      ],
+      "top_k_titles": [
+        "Avocado",
+        "Haferflocken Feinblatt",
+        "Basilikum Frisch",
+        "Apfelmus Ungesüßt",
+        "Apfel-Birnen Mus"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.11764705882352941,
+      "mrr": 0.25,
+      "ndcg@5": 0.27727342735504823
+    },
+    {
+      "query": "Apfelsaft naturtrüb",
+      "num_relevant": 1,
+      "top_k_ids": [
+        "p6",
+        "p70",
+        "p90",
+        "p88",
+        "p98"
+      ],
+      "top_k_titles": [
+        "Apfelsaft Naturtrüb",
+        "Apfel-Mango Saft",
+        "Apfel-Möhren Saft",
+        "Bio Zitronen",
+        "Apfel-Blaubeer Smoothie"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 1.0,
+      "mrr": 1.0,
+      "ndcg@5": 1.0
+    },
+    {
+      "query": "veganes Frühstück",
+      "num_relevant": 9,
+      "top_k_ids": [
+        "p63",
+        "p5",
+        "p83",
+        "p72",
+        "p96"
+      ],
+      "top_k_titles": [
+        "Veganes Hack",
+        "Veganes Proteinriegel Schoko",
+        "Vegane Bratwurst",
+        "Vegane Nuggets",
+        "Vegane Pizza Margherita"
+      ],
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "mrr": 0.0,
+      "ndcg@5": 0.0
+    },
+    {
+      "query": "italienische Pasta mit Tomate und Basilikum",
+      "num_relevant": 8,
+      "top_k_ids": [
+        "p91",
+        "p3",
+        "p42",
+        "p31",
+        "p96"
+      ],
+      "top_k_titles": [
+        "Bio Spaghetti",
+        "Vollkorn Spaghetti",
+        "Tomatenmark",
+        "Vegane Lasagne",
+        "Vegane Pizza Margherita"
+      ],
+      "precision@5": 0.6,
+      "recall@5": 0.375,
+      "mrr": 1.0,
+      "ndcg@5": 0.7227265726449519
+    },
+    {
+      "query": "proteinreiche Produkte",
+      "num_relevant": 14,
+      "top_k_ids": [
+        "p5",
+        "p63",
+        "p72",
+        "p30",
+        "p66"
+      ],
+      "top_k_titles": [
+        "Veganes Proteinriegel Schoko",
+        "Veganes Hack",
+        "Vegane Nuggets",
+        "Bio Hähnchenbrust",
+        "Hirse"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 0.2857142857142857,
+      "mrr": 1.0,
+      "ndcg@5": 0.8687949224876582
+    },
+    {
+      "query": "Bio Produkte",
+      "num_relevant": 16,
+      "top_k_ids": [
+        "p1",
+        "p99",
+        "p58",
+        "p30",
+        "p47"
+      ],
+      "top_k_titles": [
+        "Bio Haferdrink Natur",
+        "Bio Walnüsse",
+        "Bio Sojadrink",
+        "Bio Hähnchenbrust",
+        "Bio Lachsfilet"
+      ],
+      "precision@5": 1.0,
+      "recall@5": 0.3125,
+      "mrr": 1.0,
+      "ndcg@5": 1.0
+    },
+    {
+      "query": "Schokolade",
+      "num_relevant": 3,
+      "top_k_ids": [
+        "p18",
+        "p68",
+        "p49",
+        "p19",
+        "p43"
+      ],
+      "top_k_titles": [
+        "Dunkle Schokolade 70%",
+        "Zartbitterschokolade 85%",
+        "Haferflocken Feinblatt",
+        "Mandeldrink Ungesüßt",
+        "Rucola"
+      ],
+      "precision@5": 0.4,
+      "recall@5": 0.6666666666666666,
+      "mrr": 1.0,
+      "ndcg@5": 0.7653606369886217
+    },
+    {
+      "query": "Käse",
+      "num_relevant": 5,
+      "top_k_ids": [
+        "p49",
+        "p86",
+        "p40",
+        "p10",
+        "p29"
+      ],
+      "top_k_titles": [
+        "Haferflocken Feinblatt",
+        "Feta Käse",
+        "Frischkäse Natur",
+        "Cheddar Käse Mild",
+        "Gouda Käse"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 0.8,
+      "mrr": 0.5,
+      "ndcg@5": 0.6608397947263839
+    },
+    {
+      "query": "exotische Getränke",
+      "num_relevant": 7,
+      "top_k_ids": [
+        "p62",
+        "p46",
+        "p19",
+        "p6",
+        "p12"
+      ],
+      "top_k_titles": [
+        "Granatapfelsaft",
+        "Grüner Tee",
+        "Mandeldrink Ungesüßt",
+        "Apfelsaft Naturtrüb",
+        "Mineralwasser Sprudel"
+      ],
+      "precision@5": 0.2,
+      "recall@5": 0.14285714285714285,
+      "mrr": 1.0,
+      "ndcg@5": 0.3391602052736161
+    },
+    {
+      "query": "Nüsse und Kerne",
+      "num_relevant": 7,
+      "top_k_ids": [
+        "p99",
+        "p69",
+        "p45",
+        "p13",
+        "p61"
+      ],
+      "top_k_titles": [
+        "Bio Walnüsse",
+        "Pecannüsse",
+        "Cashewkerne",
+        "Erdnussbutter Crunchy",
+        "Datteln"
+      ],
+      "precision@5": 0.8,
+      "recall@5": 0.5714285714285714,
+      "mrr": 1.0,
+      "ndcg@5": 0.8687949224876582
+    }
+  ],
+  "summary": {
+    "precision@5": 0.52,
+    "recall@5": 0.4271813725490196,
+    "mrr": 0.775,
+    "ndcg@5": 0.6502950481963938
+  }
+}
