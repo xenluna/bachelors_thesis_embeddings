@@ -127,10 +127,10 @@
       }
     ],
     "manual_evaluation": {
-      "retrieval_correctness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "faithfulness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "hallucination": "TODO: nein / gering / ja",
-      "comment": "TODO"
+      "retrieval_correctness": "korrekt",
+      "faithfulness": "korrekt",
+      "hallucination": "nein",
+      "comment": "Im ersten Turn werden apfelbasierte Getränke abgerufen. Im zweiten Turn wird Apfel-Mango Saft korrekt als Produkt mit exotischer Frucht empfohlen, da Mango im Retrieval-Kontext enthalten ist."
     }
   },
   {
@@ -204,10 +204,10 @@
       }
     ],
     "manual_evaluation": {
-      "retrieval_correctness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "faithfulness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "hallucination": "TODO: nein / gering / ja",
-      "comment": "TODO"
+      "retrieval_correctness": "teilweise korrekt",
+      "faithfulness": "korrekt",
+      "hallucination": "nein",
+      "comment": "Das Retrieval findet vegane Produkte, der konkrete Frühstücksbezug ist jedoch nur eingeschränkt gegeben. Die Antwort bleibt faktentreu, da sie nur den Proteinriegel als mögliches Frühstücksprodukt nennt und klar darauf hinweist, dass die übrigen Produkte nicht speziell als Frühstücksprodukte gekennzeichnet sind."
     }
   },
   {
@@ -279,10 +279,10 @@
       }
     ],
     "manual_evaluation": {
-      "retrieval_correctness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "faithfulness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "hallucination": "TODO: nein / gering / ja",
-      "comment": "TODO"
+      "retrieval_correctness": "korrekt",
+      "faithfulness": "korrekt",
+      "hallucination": "nein",
+      "comment": "Das Retrieval findet mehrere Produkte mit proteinbezogenen Zutaten wie Erbsenprotein, Weizenprotein, Sojaprotein und Hähnchenfleisch. Die Antwort übernimmt diese Informationen aus dem Retrieval-Kontext ohne zusätzliche unbelegte Produkteigenschaften."
     }
   },
   {
@@ -350,10 +350,10 @@
       }
     ],
     "manual_evaluation": {
-      "retrieval_correctness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "faithfulness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "hallucination": "TODO: nein / gering / ja",
-      "comment": "TODO"
+      "retrieval_correctness": "korrekt",
+      "faithfulness": "korrekt",
+      "hallucination": "nein",
+      "comment": "Alle Top-5-Treffer enthalten den Begriff Bio im Produkttitel und passen damit zur Nutzeranfrage. Die Antwort nennt ausschließlich diese abgerufenen Produkte."
     }
   },
   {
@@ -428,10 +428,10 @@
       }
     ],
     "manual_evaluation": {
-      "retrieval_correctness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "faithfulness": "TODO: korrekt / teilweise korrekt / nicht korrekt",
-      "hallucination": "TODO: nein / gering / ja",
-      "comment": "TODO"
+      "retrieval_correctness": "teilweise korrekt",
+      "faithfulness": "korrekt",
+      "hallucination": "nein",
+      "comment": "Die ersten zwei Treffer sind relevante Schokoladenprodukte. Die weiteren Top-5-Treffer sind nicht relevant. Die Antwort filtert diese irrelevanten Treffer jedoch korrekt heraus und nennt nur die tatsächlich passenden Schokoladenprodukte aus dem Retrieval-Kontext."
     }
   }
 ]
